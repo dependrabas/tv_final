@@ -196,3 +196,4 @@ Update the PHP-FPM socket path to match the installed PHP version. Add TLS with 
 - Set `upload_max_filesize` and `post_max_size` to at least `20M` if large slide videos are required.
 - Review Draft and expired records periodically; keep the activity log according to college policy.
 # infotv
+# tv_final
